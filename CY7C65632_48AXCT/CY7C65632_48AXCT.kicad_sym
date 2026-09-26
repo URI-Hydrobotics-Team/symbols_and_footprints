@@ -1717,7 +1717,7 @@
 		(symbol "CY7C65632-48AXCT_1_1"
 			(rectangle
 				(start 7.62 5.08)
-				(end 58.42 -64.77)
+				(end 57.15 -64.77)
 				(stroke
 					(width 0)
 					(type solid)
