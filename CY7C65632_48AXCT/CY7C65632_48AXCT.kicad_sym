@@ -10,7 +10,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 60.96 10.16 0)
+			(at 28.448 -68.326 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -18,7 +18,7 @@
 			)
 		)
 		(property "Value" "CY7C65632-48AXCT"
-			(at 60.96 7.62 0)
+			(at 28.448 -70.866 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -240,54 +240,6 @@
 			(polyline
 				(pts
 					(xy 7.0993 -53.34) (xy 6.0579 -53.8607)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 5.08) (xy 7.62 -68.58)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 -68.58) (xy 57.15 -68.58)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 57.15 5.08) (xy 7.62 5.08)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 57.15 -68.58) (xy 57.15 5.08)
 				)
 				(stroke
 					(width 0.2032)
@@ -1759,6 +1711,20 @@
 							(size 1.27 1.27)
 						)
 					)
+				)
+			)
+		)
+		(symbol "CY7C65632-48AXCT_1_1"
+			(rectangle
+				(start 7.62 5.08)
+				(end 58.42 -64.77)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 255 255 194 1)
 				)
 			)
 		)
